@@ -2,7 +2,7 @@
 
 use Cvsouth\EloquentInheritance\InheritableModel;
 
-use Illuminate\Foundation\AliasLoader;
+use Themosis\Core\AliasLoader;
 
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 
